@@ -1,3 +1,6 @@
-# pytest1
+# Dette er mit første repo
 
-## Heading 2
+Opgaver:
+  - Lave nogle Python-programmer
+  - Teste at programmerne virker
+  - ...
